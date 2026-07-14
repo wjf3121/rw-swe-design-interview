@@ -1,0 +1,13 @@
+# Binaries and build output
+*.exe
+*.out
+/bin/
+
+# Go workspace files (this is a standalone module)
+go.work
+go.work.sum
+
+# Editor/OS cruft
+.DS_Store
+.idea/
+.vscode/
